@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+D:\StudentTrackSystem\StudentTrackSystem\StudentTrackSystem\LinkedList.cpp(105,1): warning C4715: 'LinkedList::search': not all control paths return a value
+  StudentTrackSystem.vcxproj -> D:\StudentTrackSystem\StudentTrackSystem\x64\Debug\StudentTrackSystem.exe

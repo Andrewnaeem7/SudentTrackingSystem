@@ -1,0 +1,8 @@
+Student ID: 15
+
+Student name: andrew
+Subject 1: 100	=> Passed
+Subject 2: 100	=> Passed
+Total: 200 => 100%
+============================
+
